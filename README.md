@@ -121,6 +121,10 @@ Install them via:
 - Detect and alert on real-time SYN Flood or abnormal packet behavior.
 
 ---
+## 🎥 Demonstration video
+Watch the demonstration on [Youtube](https://youtu.be/NCo-jZ-9DpU).
+
+---
 
 ## 🔒 Disclaimer
 
