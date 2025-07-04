@@ -2,7 +2,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Maintained](https://img.shields.io/badge/Maintained-yes-brightgreen.svg)
 
 **SecureTheEye** is a comprehensive Python-based desktop application designed to enhance the security of IP cameras in local area networks. It incorporates intelligent tools for automatic IP camera discovery, vulnerability assessment via the CVE database, AI-based remediation recommendations, and real-time intrusion detection using machine learning techniques.
 
@@ -129,4 +128,5 @@ This project is built strictly for educational and research purposes. Do not use
 
 ---
 
-## 🙌 Acknowledgements
+## 👨‍💻 Author
+©2025 TingWai-85
